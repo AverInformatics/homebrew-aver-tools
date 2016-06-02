@@ -1,9 +1,9 @@
 class Walt < Formula
   desc "Build and deploy docker containers"
   homepage "https://github.com/AverInformatics/aver-tools"
-  url "https://homebrew.avercloud.com/walt/walt-0.2.0.tar.gz"
-  version "0.2.0"
-  sha256 "aa4dd58df8558822486695f0a0f61dd5ae2c65226c464f0b423e72ba555dc775"
+  url "https://homebrew.avercloud.com/walt/walt-0.2.1.tar.gz"
+  version "0.2.1"
+  sha256 "a14af47932de2da659e3c52e784ba4e3f105c0c9a92525178de85b0a54a47669"
 
   def install
     bin.install "walt"
