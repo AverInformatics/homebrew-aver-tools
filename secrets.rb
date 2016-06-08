@@ -1,4 +1,4 @@
-class secrets < Formula
+class Secrets < Formula
   desc "Manage secrets values for Aver applications"
   homepage "https://github.com/AverInformatics/aver-tools"
   url "https://homebrew.avercloud.com/secrets/secrets-0.0.1.tar.gz"
